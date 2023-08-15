@@ -1,4 +1,4 @@
-# CorpusAnalysisExample
+# CorpusPython
 코퍼스 언어학교 - 실습자료
 
 
