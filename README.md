@@ -4,7 +4,8 @@
 
 ## 실습자료 다운로드 하는 방법
 1. Codes.zip 클릭
-![스크린샷 2023-08-15 162519](https://github.com/cnunlplab/CorpusAnalysisExample/assets/76690507/2f5501e6-d0de-4ccd-a3b2-fbc0f8f05763)
+![스크린샷 2023-08-15 164537](https://github.com/cnunlplab/CorpusAnalysisExample/assets/76690507/cc7c8c4f-cb7d-41e6-85af-db7921c7a82f)
+
 
 
 
